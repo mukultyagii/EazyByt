@@ -1,0 +1,39 @@
+[
+    {
+      "title": "C++",
+      "imageSrc": "https://i.pinimg.com/736x/51/45/df/5145df1033fa60f13b3b7125d2b69554.jpg"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwbSAmR2j5EbCc4J7mJchnaARMVcfbK2dPlCmblJ92nQ&s"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSouarwWjutcqgK63HGx5zoGQqLnKYL3nCZa0vYlgZcYw&s"
+    },
+    {
+      "title": "Angular",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"
+    },
+    {
+      "title": "Oops",
+      "imageSrc": "https://www.shutterstock.com/image-vector/oops-text-logo-design-vector-260nw-1961323642.jpg"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png"
+    },
+   
+    {
+      "title": "Cloud",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png"
+    }
+  ]
