@@ -3,7 +3,7 @@ import project from "./data/projects.json";
 
 const Projects = () => {
   return (
-    <>
+    
       <div className="container projects my-3" id="projects">
         <h1>PROJECTS</h1>
         <div className="row d-flex justify-content-center align-content-center">
@@ -52,7 +52,7 @@ const Projects = () => {
           ))}
         </div>
       </div>
-    </>
+    
   );
 };
 

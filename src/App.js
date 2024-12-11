@@ -1,5 +1,5 @@
 
-import React, {useEffect} from "react";
+import React, { useEffect } from "react";
 import './App.css';
 import Navbar from './components/Navbar';
 import Home from "./components/Home";
@@ -9,28 +9,29 @@ import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Aos from "aos";
 import "aos/dist/aos.css"
+import Form from './components/Form';
+// import {BroswerRouter,Route,Routes} from 're-router-dom'
 
 
 function App() {
   useEffect(() => {
     Aos.init();
-    
-   }, [])
-   
+
+  }, [])
+
   return (
     <>
-   <Navbar/>
-   <div className="container">
-    <Home/>
-    <Experience/>
-    <Skills/>
-    <Projects/>
-    <Contact/>
-   </div>
-   
+        <Navbar />
+        <div className="container">
+          <Home />
+          <Experience />
+          <Skills />
+          <Projects />
+          <Contact />
+          <Form/>
 
-   
-   </>
+        </div>
+      </>
   );
 }
 

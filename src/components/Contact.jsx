@@ -16,23 +16,23 @@ const Contact = () => {
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
-          <a href="https://www.instagram.com/kashyap_raj_25/?next=%2F" target="_blank" className="items">
+          <a href="https://www.instagram.com/mukul_tyagii/" target="_blank" className="items">
             <FaInstagram className="icons" />
           </a>
-          <a href="https://www.hackerrank.com/profile/kashyap_raj" target="_blank" className="items">
+          <a href="#" target="_blank" className="items">
             <IoCodeSlash className="icons" />
           </a>
-          <a href="https://www.linkedin.com/in/raj-kashyap-6a6509225/" target="_blank" className="items">
+          <a href="https://linkedin.com/in/mukul-tyagi-550az/" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
-          <a href="https://twitter.com/kashyapRaj25" target="_blank" className="items">
+          <a href="#" target="_blank" className="items">
             <FaSquareXTwitter className="icons" />
           </a>
-          <a href="https://github.com/kashyapraju" target="_blank" className="items">
+          <a href="https://github.com/mukultyagii" target="_blank" className="items">
             <FaGithubSquare className="icons" />
           </a>
           <a
-            href="mailto:rajukashyapstn@gmail.com"
+            href="mailto:tyagimukul087@gmail.com"
             target="_blank"
             className="items"
           >
